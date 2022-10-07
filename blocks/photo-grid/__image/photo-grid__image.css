@@ -1,0 +1,6 @@
+.photo-grid__image {
+  max-width: 300px;
+  max-height: 225px;
+  object-fit: cover;
+  grid-template: repeat(3, 1fr) repeat(4, 1fr);
+}

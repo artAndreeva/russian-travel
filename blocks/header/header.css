@@ -1,0 +1,9 @@
+.header {
+  min-width: 928px;
+  min-height: 52px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 28px;
+  color: white;
+}
