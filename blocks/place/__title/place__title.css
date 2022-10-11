@@ -8,6 +8,7 @@
 
 @media screen and (max-width:768px) {
   .place__title {
+    white-space: pre-line;
     font-size: 42px;
     line-height: 46px;
   }
@@ -15,6 +16,7 @@
 
 @media screen and (max-width:320px) {
   .place__title {
+    white-space: nowrap;
     padding-left: 16px;
     padding-right: 16px;
     font-size: 32px;
