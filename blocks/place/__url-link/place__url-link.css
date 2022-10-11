@@ -1,10 +1,10 @@
 .place__url-link {
+  text-decoration: underline;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
   color: inherit;
-  text-decoration: underline;
 }
 
 @media screen and (max-width:320px) {
