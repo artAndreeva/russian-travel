@@ -5,4 +5,12 @@
   line-height: 22px;
   text-decoration-line: underline;
   color: inherit;
+  cursor: pointer;
+}
+
+@media screen and (max-width:320px) {
+  .place__url-link {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
