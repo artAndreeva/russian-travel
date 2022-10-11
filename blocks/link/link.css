@@ -1,5 +1,4 @@
 .link {
-  text-decoration: none;
   cursor: pointer;
   transition: opacity .5s ease-in-out 0s;
 }
